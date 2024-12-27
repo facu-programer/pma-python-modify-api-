@@ -1,7 +1,5 @@
 from log import log as log2
 log2().registry("log importado")
-from requiere import requiere
-log2().registry("requiere importado")
 from fdi import fdi
 log2().registry("fdi impotado")
 from libs import load_libs

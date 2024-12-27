@@ -1,0 +1,206 @@
+
+[2024-12-27T07:17:24.659907] log importado
+
+[2024-12-27T07:17:24.660146] fdi impotado
+
+[2024-12-27T07:17:24.665506] load_libs importado
+
+[2024-12-27T07:17:24.665567] pma iniciado
+
+[2024-12-27T07:17:24.665788] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T07:17:24.665894] Error al cargar la dependencia 'requiere': [Errno 2] No such file or directory: '/home/runner/init/requiere.py'
+
+[2024-12-27T07:17:24.666462] ejemplo iniciado
+
+[2024-12-27T07:17:24.666537] saludando a Facundo!
+
+[2024-12-27T07:17:47.215531] log importado
+
+[2024-12-27T07:17:47.215848] fdi impotado
+
+[2024-12-27T07:17:47.221357] load_libs importado
+
+[2024-12-27T07:17:47.221428] pma iniciado
+
+[2024-12-27T07:17:47.221789] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T07:17:47.221945] Error al cargar la dependencia 'requiere': [Errno 2] No such file or directory: '/home/runner/init/requiere.py'
+
+[2024-12-27T07:17:47.222500] ejemplo iniciado
+
+[2024-12-27T07:17:47.222576] saludando a Facundo!
+
+[2024-12-27T07:18:23.006791] log importado
+
+[2024-12-27T07:18:23.007070] fdi impotado
+
+[2024-12-27T07:18:23.013572] load_libs importado
+
+[2024-12-27T07:18:23.013712] pma iniciado
+
+[2024-12-27T07:18:23.013944] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T07:18:23.014174] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T07:18:23.014607] ejemplo iniciado
+
+[2024-12-27T07:18:23.014705] saludando a Facundo!
+
+[2024-12-27T07:49:05.358972] log importado
+
+[2024-12-27T07:49:05.359230] fdi impotado
+
+[2024-12-27T07:49:05.367993] load_libs importado
+
+[2024-12-27T07:49:05.368064] pma iniciado
+
+[2024-12-27T07:49:05.368727] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T07:49:05.372567] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T07:49:05.372884] ejemplo iniciado
+
+[2024-12-27T07:49:05.373001] saludando a Facundo!
+
+[2024-12-27T17:35:17.911725] log importado
+
+[2024-12-27T17:35:17.912019] fdi impotado
+
+[2024-12-27T17:35:17.920083] load_libs importado
+
+[2024-12-27T17:35:17.920158] pma iniciado
+
+[2024-12-27T17:35:17.920396] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T17:35:17.925908] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T20:47:20.243267] log importado
+
+[2024-12-27T20:47:20.245728] fdi impotado
+
+[2024-12-27T20:47:20.254486] load_libs importado
+
+[2024-12-27T20:47:20.254572] pma iniciado
+
+[2024-12-27T20:47:20.254819] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T20:47:20.258077] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T20:50:03.111404] log importado
+
+[2024-12-27T20:50:03.111698] fdi impotado
+
+[2024-12-27T20:50:03.118870] load_libs importado
+
+[2024-12-27T20:50:03.118967] pma iniciado
+
+[2024-12-27T20:50:03.119224] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T20:50:03.119447] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T20:50:52.732799] log importado
+
+[2024-12-27T20:50:52.733036] fdi impotado
+
+[2024-12-27T20:50:52.738546] load_libs importado
+
+[2024-12-27T20:50:52.738624] pma iniciado
+
+[2024-12-27T20:50:52.738826] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T20:50:52.738995] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T20:50:52.739482] la dependencia ejemplolib no tiene una version
+
+[2024-12-27T20:51:21.175975] log importado
+
+[2024-12-27T20:51:21.176209] fdi impotado
+
+[2024-12-27T20:51:21.183796] load_libs importado
+
+[2024-12-27T20:51:21.183892] pma iniciado
+
+[2024-12-27T20:51:21.184664] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T20:51:21.184887] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T20:51:21.185285] la dependencia ejemplolib no tiene una version
+
+[2024-12-27T20:52:40.533399] log importado
+
+[2024-12-27T20:52:40.533741] fdi impotado
+
+[2024-12-27T20:52:40.541176] load_libs importado
+
+[2024-12-27T20:52:40.541283] pma iniciado
+
+[2024-12-27T20:52:40.542011] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T20:52:40.543115] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T20:52:40.543555] la dependencia ejemplolib no tiene una version
+
+[2024-12-27T20:59:16.355620] log importado
+
+[2024-12-27T20:59:16.369910] fdi impotado
+
+[2024-12-27T20:59:16.376938] load_libs importado
+
+[2024-12-27T20:59:16.377016] pma iniciado
+
+[2024-12-27T20:59:16.377258] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T20:59:16.378438] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T21:00:00.697409] log importado
+
+[2024-12-27T21:00:00.697900] fdi impotado
+
+[2024-12-27T21:00:00.709478] load_libs importado
+
+[2024-12-27T21:00:00.709759] pma iniciado
+
+[2024-12-27T21:00:00.710073] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T21:00:00.711650] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T21:00:00.712207] ejemplo iniciado
+
+[2024-12-27T21:00:00.713401] saludando a Facundo!
+
+[2024-12-27T21:00:29.219723] log importado
+
+[2024-12-27T21:00:29.219989] fdi impotado
+
+[2024-12-27T21:00:29.227858] load_libs importado
+
+[2024-12-27T21:00:29.227943] pma iniciado
+
+[2024-12-27T21:00:29.228207] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T21:00:29.228439] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T21:00:29.229051] la dependencia ejemplolib no esta en la version 2
+
+[2024-12-27T21:00:29.229116] ejemplo iniciado
+
+[2024-12-27T21:00:29.229192] saludando a Facundo!
+
+[2024-12-27T21:00:57.458809] log importado
+
+[2024-12-27T21:00:57.459202] fdi impotado
+
+[2024-12-27T21:00:57.467121] load_libs importado
+
+[2024-12-27T21:00:57.467343] pma iniciado
+
+[2024-12-27T21:00:57.467716] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-27T21:00:57.467930] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-27T21:00:57.468581] la dependencia ejemplolib no esta en la version 2
+
+[2024-12-27T21:00:57.468650] ejemplo iniciado
+
+[2024-12-27T21:00:57.468718] saludando a Facundo!
