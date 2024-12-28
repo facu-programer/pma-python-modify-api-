@@ -12,7 +12,9 @@ load_libs()
 class pma:
   def __init__(self):
     self.api = {}
+    self.inyecciones_hechas = {}
   def inyectar(self, ruta, code, line):
+    self.inyecciones_hechas[line] = len(code.split("\n")) - 1
     nombre = f"proyect/{ruta}.py"
     try:
       func_inyecciones = self.api[nombre]
@@ -24,8 +26,9 @@ class pma:
     with open(f"proyect/{ruta}.py", "r") as f:
       code = f.read()
     inyecciones = self.api[f"proyect/{ruta}.py"]
-    return fdi(code, inyecciones, params)()
+    return fdi(code, inyecciones, params, self.inyecciones_hechas)()
 
-pda2 = pma()
+"""pda2 = pma()
 pda2.inyectar("ejemplo", "  print('hola mundo!')", 1)
-print(pda2.ejecutar("ejemplo", []))
+pda2.inyectar("ejemplo", "  print('chau mundo!')", 2)
+print(pda2.ejecutar("ejemplo", []))"""

@@ -1,7 +1,7 @@
 def ejemplo():
   import log as log2
   from dependencies import dependencies
-  dependencies().requiere({"ejemplolib": 2})
+  dependencies().requiere({"ejemplolib": 1})
   log = log2.log()
   log.registry("ejemplo iniciado")
   from ejemplolib import ejemplolib

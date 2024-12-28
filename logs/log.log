@@ -204,3 +204,85 @@
 [2024-12-27T21:00:57.468650] ejemplo iniciado
 
 [2024-12-27T21:00:57.468718] saludando a Facundo!
+
+[2024-12-28T00:25:20.771135] log importado
+
+[2024-12-28T00:25:20.774249] fdi impotado
+
+[2024-12-28T00:25:20.800556] load_libs importado
+
+[2024-12-28T00:25:20.800764] pma iniciado
+
+[2024-12-28T00:25:20.801044] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-28T00:25:20.803291] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-28T00:25:20.803895] la dependencia ejemplolib no esta en la version 2
+
+[2024-12-28T00:25:20.803964] ejemplo iniciado
+
+[2024-12-28T00:25:20.804032] saludando a Facundo!
+
+[2024-12-28T00:25:44.269000] log importado
+
+[2024-12-28T00:25:44.275118] fdi impotado
+
+[2024-12-28T00:25:44.301523] load_libs importado
+
+[2024-12-28T00:25:44.301627] pma iniciado
+
+[2024-12-28T00:25:44.301918] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-28T00:25:44.305823] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-28T00:25:44.306676] ejemplo iniciado
+
+[2024-12-28T00:25:44.306772] saludando a Facundo!
+
+[2024-12-28T00:27:20.333710] log importado
+
+[2024-12-28T00:27:20.338178] fdi impotado
+
+[2024-12-28T00:27:20.367836] load_libs importado
+
+[2024-12-28T00:27:20.367913] pma iniciado
+
+[2024-12-28T00:27:20.368148] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-28T00:27:20.370302] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-28T00:27:20.370965] ejemplo iniciado
+
+[2024-12-28T00:27:20.371045] saludando a Facundo!
+
+[2024-12-28T00:28:05.761464] log importado
+
+[2024-12-28T00:28:05.762789] fdi impotado
+
+[2024-12-28T00:28:05.793032] load_libs importado
+
+[2024-12-28T00:28:05.793133] pma iniciado
+
+[2024-12-28T00:28:05.793405] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-28T00:28:05.795774] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-28T00:28:05.796750] ejemplo iniciado
+
+[2024-12-28T00:28:05.796842] saludando a Facundo!
+
+[2024-12-28T00:29:21.163558] log importado
+
+[2024-12-28T00:29:21.171335] fdi impotado
+
+[2024-12-28T00:29:21.209703] load_libs importado
+
+[2024-12-28T00:29:21.210453] pma iniciado
+
+[2024-12-28T00:29:21.211913] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-28T00:29:21.217056] Dependencia 'dependencies' cargada correctamente.
+
+[2024-12-28T00:29:21.219129] ejemplo iniciado
+
+[2024-12-28T00:29:21.220234] saludando a Facundo!
