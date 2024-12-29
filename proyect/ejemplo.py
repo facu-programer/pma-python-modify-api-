@@ -8,3 +8,4 @@ def ejemplo():
   ejemplo = ejemplolib()
   ejemplolib().saludar("Facundo!")
   return "hola mundo!"
+ejemplo()
