@@ -434,3 +434,15 @@
 [2024-12-29T17:27:21.378730] ejemplo iniciado
 
 [2024-12-29T17:27:21.378819] saludando a Facundo!
+
+[2024-12-29T20:17:30.771380] log importado
+
+[2024-12-29T20:17:30.777704] fdi impotado
+
+[2024-12-29T20:17:30.785819] load_libs importado
+
+[2024-12-29T20:17:30.785897] pma iniciado
+
+[2024-12-29T20:17:30.786164] Dependencia 'ejemplolib' cargada correctamente.
+
+[2024-12-29T20:17:30.790000] Dependencia 'dependencies' cargada correctamente.
