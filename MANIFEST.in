@@ -1,0 +1,6 @@
+exclude replit.nix
+exclude uv.lock
+exclude .replit
+exclude init/logs/log.log
+exclude init/proyect/ejemplo.py
+exclude init/libs/ejemplolib.py

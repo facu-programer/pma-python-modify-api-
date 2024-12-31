@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+init/__init__.py
+init/dependencies.py
+init/fdi.py
+init/libs.py
+init/log.py
+init/main.py
+pma.egg-info/PKG-INFO
+pma.egg-info/SOURCES.txt
+pma.egg-info/dependency_links.txt
+pma.egg-info/top_level.txt

@@ -1,7 +1,6 @@
 replit.nix
-pyproject.toml
 uv.lock
 .replit
-logs/log.log
-proyect/ejemplo.py
-libs/ejemplolib.py
+init/logs/log.log
+init/proyect/ejemplo.py
+init/libs/ejemplolib.py
